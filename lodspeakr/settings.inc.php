@@ -1,7 +1,7 @@
 <?php
 
 $conf['endpoint']['local'] = 'http://logd.tw.rpi.edu/sparql';
-$conf['home'] = '/var/www/lodspeakr/';
+$conf['home'] = '/data/www/lodspeakr/';
 $conf['basedir'] = 'http://logd.tw.rpi.edu/';
 $conf['debug'] = false;
 

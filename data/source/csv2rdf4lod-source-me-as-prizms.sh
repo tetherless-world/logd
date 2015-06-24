@@ -8,7 +8,7 @@ source /home/prizms/prizms/logd/data/source/csv2rdf4lod-source-me-on-prizms.sh
 source /home/prizms/prizms/logd/data/source/csv2rdf4lod-source-me-credentials.sh
 export CSV2RDF4LOD_CONVERT_DATA_ROOT="/home/prizms/prizms/logd/data/source"
 export CSV2RDF4LOD_PUBLISH_VARWWW_DUMP_FILES="true"
-export CSV2RDF4LOD_PUBLISH_VARWWW_ROOT="/var/www"
+export CSV2RDF4LOD_PUBLISH_VARWWW_ROOT="/var/www/html"
 export PATH=$PATH`/home/prizms/opt/prizms/bin/install/paths.sh`
 export CLASSPATH=$CLASSPATH`/home/prizms/opt/prizms/bin/install/classpaths.sh`
 export CSV2RDF4LOD_HOME="/home/prizms/opt/prizms/repos/csv2rdf4lod-automation"
